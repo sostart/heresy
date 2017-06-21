@@ -80,6 +80,8 @@ return PHPKit\PHPKit::registerTools([
     },
 
     'Input', 'Response',
+    
+    'Fetch',
 
     'Is',
 
